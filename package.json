@@ -53,7 +53,7 @@
 		"extends": "delta"
 	},
 
-	"dependencies": {
+	"peerDependencies": {
 		"three": "0.89.x"
 	},
 
